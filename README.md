@@ -1,4 +1,6 @@
 # Histogram-of-an-images
+# NAME : # SAJITH AHAMED F
+# REG NO :212223240144
 ## Aim
 To obtain a histogram for finding the frequency of pixels in an Image with pixel values ranging from 0 to 255. Also write the code using OpenCV to perform histogram equalization.
 
@@ -72,10 +74,10 @@ plt.show()
 
 ```
 ## Output:
-<img width="335" height="302" alt="image" src="https://github.com/user-attachments/assets/59b546f7-be9f-4974-b858-4d8da7bfd60b" />
-<img width="240" height="311" alt="image" src="https://github.com/user-attachments/assets/ae63f066-bd62-432a-89d0-110dbfb37f03" />
-<img width="464" height="355" alt="image" src="https://github.com/user-attachments/assets/55835ef6-28f3-43c6-9843-e1c045817295" />
-<img width="448" height="382" alt="image" src="https://github.com/user-attachments/assets/707c7e2c-13db-41d2-94ea-aeb3ec7ce8c5" />
+<img width="535" height="184" alt="image" src="https://github.com/user-attachments/assets/a33e71d2-ee5a-4dbb-87b1-2e9ffcc7d2f9" />
+<img width="366" height="247" alt="image" src="https://github.com/user-attachments/assets/f425bffb-dffa-4dfc-9370-149d97945ac8" />
+<img width="255" height="77" alt="image" src="https://github.com/user-attachments/assets/ec6ac8cf-4184-4219-930a-8ae0f8fde2f7" />
+<img width="325" height="251" alt="image" src="https://github.com/user-attachments/assets/e0676934-c1be-465c-a8f3-d2c9eaa1790b" />
 
 
 ## Result: 
