@@ -75,8 +75,14 @@ plt.show()
 ```
 ## Output:
 <img width="535" height="184" alt="image" src="https://github.com/user-attachments/assets/a33e71d2-ee5a-4dbb-87b1-2e9ffcc7d2f9" />
+
+
 <img width="366" height="247" alt="image" src="https://github.com/user-attachments/assets/f425bffb-dffa-4dfc-9370-149d97945ac8" />
+
+
 <img width="255" height="77" alt="image" src="https://github.com/user-attachments/assets/ec6ac8cf-4184-4219-930a-8ae0f8fde2f7" />
+
+
 <img width="325" height="251" alt="image" src="https://github.com/user-attachments/assets/e0676934-c1be-465c-a8f3-d2c9eaa1790b" />
 
 
